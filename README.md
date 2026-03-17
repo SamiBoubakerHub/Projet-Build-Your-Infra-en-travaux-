@@ -1,19 +1,16 @@
 # Projet 3 : Build Your Infra
----
-## TSSR-1025-P3-G8
----
 
 ![Image_de_présentation](Ressources/Logo_Pharmgreen.png)
 
 ## Sommaire
 ---
-- [Présentation du Projet](#presentation-du-projet)
-- [Contexte](#contexte)
-- [Le Groupe de Projet](#le-groupe-du-projet)
-- [Entreprise Ciblée](#entreprise-ciblee)
-- [Objectifs](#objectifs)
-- [Vue d'Ensemble de l'Infrastructure Réalisée](#vue-densemble-de-linfrastructure-realisee)
-- [Organisation de la Documentation](#organisation-de-la-documentation)
+1. [Présentation du Projet](#presentation-du-projet)
+2. [Contexte](#contexte)
+3. [Le Groupe de Projet](#le-groupe-du-projet)
+4. [Entreprise Ciblée](#entreprise-ciblee)
+5. [Objectifs](#objectifs)
+6. [Vue d'Ensemble de l'Infrastructure Réalisée](#vue-densemble-de-linfrastructure-realisee)
+7. [Organisation de la Documentation](#organisation-de-la-documentation)
 
 
 ## 1. Présentation du Projet  
