@@ -3,14 +3,14 @@
 ![Image_de_présentation](Ressources/Logo_Pharmgreen.png)
 
 ## Sommaire
----
-1. [Présentation du Projet](#presentation-du-projet)
-2. [Contexte](#contexte)
-3. [Le Groupe de Projet](#le-groupe-du-projet)
-4. [Entreprise Ciblée](#entreprise-ciblee)
-5. [Objectifs](#objectifs)
-6. [Vue d'Ensemble de l'Infrastructure Réalisée](#vue-densemble-de-linfrastructure-realisee)
-7. [Organisation de la Documentation](#organisation-de-la-documentation)
+
+1. [Présentation du Projet](#1-presentation-du-projet)
+2. [Contexte](#2-contexte)
+3. [Le Groupe de Projet](#3-le-groupe-du-projet)
+4. [Entreprise Ciblée](#4-entreprise-ciblee)
+5. [Objectifs](#5-objectifs)
+6. [Vue d'Ensemble de l'Infrastructure Réalisée](#6-vue-densemble-de-linfrastructure-realisee)
+7. [Organisation de la Documentation](#7-organisation-de-la-documentation)
 
 
 ## 1. Présentation du Projet  
