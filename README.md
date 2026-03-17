@@ -16,29 +16,29 @@
 - [Organisation de la Documentation](#organisation-de-la-documentation)
 
 
-## ## Présentation du Projet  
+## 1. Présentation du Projet  
 
 Troisième projet réalisé dans le cadre de la formation TSSR (Technicien Supérieur Systèmes et Réseaux) de l'école Wild Code School, il a pour but d'imaginer et de concevoir une Infrastructure Réseau Centralisée et Sécurisée d'une entreprise fictive.
 
 ---
-## Contexte
+## 2. Contexte
 
 Notre société a été embauchée par l'entreprise Pharmgreen, au sein du département Systèmes d'Information, pour renouveler durablement leur infrastructure réseau centralisée et sécurisée.
 
 ---
-## Le groupe de Projet
+## 3. Le Groupe de Projet
 
 Netwild, société fictive et prestataire de services a été mandatée par l'entreprise Pharmgreen afin d'imaginer, de concevoir et d'établir une infrastructure réseau sécurisée conformément aux demandes de cette dernière.  
 Intervenant Technique : Sami Boubaker
 DSI : Dominique Colleville
 
 ---
-## Entreprise Ciblée
+## 4. Entreprise Ciblée
 
 Pharmgreen, entreprise lyonnaise comme son fondateur, Gilles Faure, est une pionnière actuelle dans le domaine de la santé grâce à ses dispositifs médicaux innovants d'origine végétale,  répondant ainsi à une demande croissante pour des solutions de santé naturelles et respectueuses de l'environnement. Grâce à des procédés de fabrication innovants et des collaborations avec des experts en botanique et en médecine naturelle, elle s'engage à fournir des produits de haute qualité, bénéfiques à la fois pour les patients et pour la planète.
 
 ---
-## Objectifs
+## 5. Objectifs
 
 - Mettre en place un filtrage réseau.
 - Mettre en place un domaine Active Directory.
@@ -50,7 +50,7 @@ Pharmgreen, entreprise lyonnaise comme son fondateur, Gilles Faure, est une pion
 - Mettre en place un service de téléphonie pour tous les comptes utilisateurs.
 
 ---
-## Vue d'Ensemble de l'Infrastructure Réalisée
+## 6. Vue d'Ensemble de l'Infrastructure Réalisée
 
 - Un pare-feu conçu avec Pfsense :
 	--> Serveur FW01 
@@ -68,7 +68,7 @@ Pharmgreen, entreprise lyonnaise comme son fondateur, Gilles Faure, est une pion
 	--> Serveur IPBX01
 
 ---
-## Organisation de la Documentation
+## 7. Organisation de la Documentation
 
 Vous trouverez dans la Documentation présente dans les répertoires : 
 - un fichier INSTALL pour chaque service.
