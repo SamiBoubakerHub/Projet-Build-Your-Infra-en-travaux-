@@ -9,5 +9,6 @@
 | **SRVLX01**  | Serveur  | Debian 13    | LAN           | Vers Switch Virtuel LAN | LAN      | GLPI                             | 172.16.10.0/24     | 172.16.10.20   | 172.16.10.254            |
 | **SRVLX02**  | Serveur  | Debian 12    | LAN           | Vers Switch Virtuel LAN | LAN      | Messagerie                       | 172.16.10.0/24     | 172.16.10.21   | 172.16.10.254            |
 | **IPBX01**   | Serveur  | FreePBX      | LAN           | Vers Switch Virtuel LAN | LAN      | VoIP                             | 172.16.10.0/24     | 172.16.10.30   | 172.16.10.254            |
+| **SRVWEB01** | Serveur  | Debian 12    | DMZ           | Vers Switch Virtuel DMZ | DMZ      | Web Externe                      | 172.16.20.0/24     | 172.16.20.10   |                          |
 | **CLIWIN01** | Client   | Win 10       | LAN           | Vers Switch Virtuel LAN | LAN      | Poste Utilisateur                | 172.16.10.0/24     | _DHCP_         | _DHCP_                   |
 | **CLIWIN02** | Client   | Win 10       | LAN           | Vers Switch Virtuel LAN | LAN      | Poste Utilisateur                | 172.16.10.0/24     | _DHCP_         | _DHCP_                   |

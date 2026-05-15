@@ -12,7 +12,7 @@
 6. [Vue d'Ensemble de l'Infrastructure Réalisée](#6-vue-densemble-de-linfrastructure-realisee)
 7. [Organisation de la Documentation](#7-organisation-de-la-documentation)
 
-
+---
 ## 1. Présentation du Projet  
 
 Troisième projet réalisé dans le cadre de la formation TSSR (Technicien Supérieur Systèmes et Réseaux) de l'école Wild Code School, il a pour but d'imaginer et de concevoir une Infrastructure Réseau Centralisée et Sécurisée d'une entreprise fictive.

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
+    <mxGraphModel dx="3853.5" dy="2348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" parent="0" style=";html=1;" />
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-65" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;opacity=90;shadow=0;align=left;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1580" width="1800" x="-50" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-31" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFD1A5;fontSize=14;strokeColor=#d79b00;verticalAlign=top;opacity=90;shadow=0;align=left;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;LAN :&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Domaine : tssr.lan&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Adresse de Réseau : 172.16.10.0/24&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="950" width="1620" x="40" y="-460" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-61" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;strokeColor=#d6b656;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Clients&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;&quot;&gt;Plage d&#39;Adresses IP : 172.16.10.41 - 250&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="510" width="600" x="1030" y="-236.58999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-60" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;verticalAlign=top;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Serveurs&lt;/font&gt;" vertex="1">
+          <mxGeometry height="760" width="740" x="90" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-59" parent="1" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=#A5A5A5;verticalAlign=top;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; FW01&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; IP WAN : 192.168.0.17&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; IP LAN : 172.16.10.254&lt;br&gt;&amp;nbsp; IP DMZ :172.16.20.254&lt;br&gt;&amp;nbsp; -&amp;gt; Pare-Feu&lt;br&gt;&amp;nbsp; -&amp;gt; Routeur&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="380" x="660" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-57" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=#82b366;verticalAlign=top;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; &amp;nbsp;DMZ :&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; &amp;nbsp;Adresse de Réseau : 172.16.20.0/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="450" x="40" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-44" edge="1" parent="1" source="6a7d8f32e03d9370-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" />
+              <mxPoint x="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-16" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;align=left;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;SRVWIN01&lt;br&gt;IP : 172.16.10.10&lt;br&gt;-&amp;gt; Active Directory&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; DNS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; DHCP&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="177.5" width="137.5" x="121" y="-128" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-45" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="928.5114210526312" y="-627.9999999999995" as="sourcePoint" />
+            <mxPoint x="928.5114210526312" y="-627.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-26" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.switch;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="60" width="133.01" x="870" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-27" parent="1" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" value="CLIWIN02&lt;br&gt;IP : DHCP" vertex="1">
+          <mxGeometry height="118" width="118" x="1220" y="50.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-62" parent="1" style="text;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;html=1;fontFamily=Helvetica;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Schéma Réseau Infrastructure Pharmgreen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="861" x="420" y="-960" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-6" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="928.5114210526312" y="-627.9999999999995" as="sourcePoint" />
+            <mxPoint x="928.5114210526312" y="-627.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-13" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=left;outlineConnect=0;shape=mxgraph.citrix.smtp_server;fontSize=14;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;SRVLX02&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : 172.16.10.21&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; Messagerie&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="143.41" width="118.47" x="230" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-14" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" value="" vertex="1">
+          <mxGeometry height="135" width="114.75" x="267.6200000000001" y="-705" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-15" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop_web;fontSize=14;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;SRVLX01&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : 172.16.10.20&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; GLPI&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="137.05" width="116.5" x="420" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-17" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;fontSize=14;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IPBX01&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : 172.16.10.30&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; VoIP&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140.91" width="103.49" x="650" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-22" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dhcp_server;fontSize=14;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;SRVWIN04&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : 172.16.10.11&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; WSUS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="141.16" width="119.2" x="340" y="-236.58999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-28" parent="1" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;CLIWIN01&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : DHCP&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="118" width="118" x="1320" y="-124.42000000000007" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-63" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" target="2al-dTrjo_3Zskvg2fJl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-30" parent="1" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall;fillStyle=auto;gradientDirection=radial;fillColor=#C3C3C3;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="873.01" y="-705" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-46" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0.094;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-170" as="sourcePoint" />
+            <mxPoint x="883.0349799999999" y="-7.360000000000127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-47" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0.038;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.51" y="60" as="sourcePoint" />
+            <mxPoint x="858.51" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-48" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0.124;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="218.5" as="sourcePoint" />
+            <mxPoint x="965" y="49.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-56" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0.217;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="210" as="sourcePoint" />
+            <mxPoint x="918" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-57" edge="1" parent="1" source="6a7d8f32e03d9370-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=1;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="192" as="sourcePoint" />
+            <mxPoint x="1206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-58" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=1;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1293" y="-45" as="sourcePoint" />
+            <mxPoint x="1060" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-59" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" target="6a7d8f32e03d9370-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-60" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;verticalAlign=top;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; &amp;nbsp;WAN :&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; &amp;nbsp;Adresse de réseau :&amp;nbsp; 192.168.0.0/24&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="440" x="1190" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-64" edge="1" parent="1" source="2al-dTrjo_3Zskvg2fJl-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2al-dTrjo_3Zskvg2fJl-66" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.switch;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="60" width="133.01" x="500" y="-667.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TuXBCc9-79SZ1uO_9f1o-1" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.globe;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Internet&lt;/font&gt;" vertex="1">
+          <mxGeometry height="121.45" width="127.12" x="1350" y="-712.09" as="geometry" />
+        </mxCell>
+        <mxCell id="TuXBCc9-79SZ1uO_9f1o-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot;&gt;SRVWEB01&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IP : 172.16.20.10&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;-&amp;gt; Serveur Web Externe&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="80" y="-620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
