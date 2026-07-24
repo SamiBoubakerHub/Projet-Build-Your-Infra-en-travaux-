@@ -81,4 +81,4 @@ Vous trouverez dans la Documentation présente dans les répertoires :
 
 ## 8. Dossier Professionnel
 
-Vous trouverez [ici](/Ressources/dp-TSSR/dp-TSSR.pdf) un document qui reflète quelques exemples de services mis en place pour étayer le projet, en attendant la fin de la rédaction de la documentation technique.
+Vous trouverez [ici](/Ressources/dp-TSSR) un document qui reflète quelques exemples de services mis en place pour étayer le projet, en attendant la fin de la rédaction de la documentation technique.
