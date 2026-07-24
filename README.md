@@ -12,7 +12,7 @@
 5. [Objectifs](#5-objectifs)
 6. [Vue d'Ensemble de l'Infrastructure Réalisée](#6-vue-densemble-de-linfrastructure-realisee)
 7. [Organisation de la Documentation](#7-organisation-de-la-documentation)
-8. [Dossier Professionnel](#8-dossier-professionnel)
+8. [Liens](#8-liens)
 
 ---
 ## 1. Présentation du Projet  
@@ -79,6 +79,12 @@ Vous trouverez dans la Documentation présente dans les répertoires :
 - un répertoire Ressources.
 ---
 
-## 8. Dossier Professionnel
+## 8. Liens
+
+## Dossier Professionnel
 
 Vous trouverez [ici](https://github.com/SamiBoubakerHub/Dossier-Professionnel-TSSR/blob/main/dp-TSSR.pdf) un document qui reflète quelques exemples de services mis en place pour étayer le projet, en attendant la fin de la rédaction de la documentation technique.
+
+## Présentation de fin de projet
+
+Vous trouverez [ici](/Ressources/presentation_projet_3.pdf) un document illustrant des diapositives relatant la fin du projet.
