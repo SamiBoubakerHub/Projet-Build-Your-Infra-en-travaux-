@@ -1,6 +1,7 @@
-# Projet 3 : Build Your Infra
+# Projet 3 : Build Your Infra (EN TRAVAUX)
 
 ![Image_de_présentation](Ressources/Logo_Pharmgreen.png)
+
 
 ## Sommaire
 
@@ -11,6 +12,7 @@
 5. [Objectifs](#5-objectifs)
 6. [Vue d'Ensemble de l'Infrastructure Réalisée](#6-vue-densemble-de-linfrastructure-realisee)
 7. [Organisation de la Documentation](#7-organisation-de-la-documentation)
+8. [Dossier Professionnel](#8-dossier-professionnel)
 
 ---
 ## 1. Présentation du Projet  
@@ -64,6 +66,8 @@ Pharmgreen, entreprise lyonnaise comme son fondateur, Gilles Faure, est une pion
 - Un service de téléphonie IP (FreePBX) :
 	--> Serveur IPBX01
 
+![Schéma d'ensemble de l'Infrastructure Réseau Sécurisée et Centralisée](/Ressources/Schema_InfrastructureReseaux.jpg)
+
 ---
 ## 7. Organisation de la Documentation
 
@@ -74,3 +78,7 @@ Vous trouverez dans la Documentation présente dans les répertoires :
 - un répertoire avec tous les fichiers propres à la préparation et à la réalisation du projet.
 - un répertoire Ressources.
 ---
+
+## 8. Dossier Professionnel
+
+Vous trouverez [ici](/Ressources/dp-TSSR/dp-TSSR.pdf) un document qui reflète quelques exemples de services mis en place pour étayer le projet, en attendant la fin de la rédaction de la documentation technique.
